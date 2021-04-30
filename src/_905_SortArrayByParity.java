@@ -24,7 +24,7 @@ import java.util.List;
  * 2.  0 <= A[i] <= 5000
  */
 
-public class SortArrayByParity_905 {
+public class _905_SortArrayByParity {
     public int[] sortArrayByParity(int[] A) {
         List<Integer> evens = new ArrayList<>();
         List<Integer> odds = new ArrayList<>();

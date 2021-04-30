@@ -1,4 +1,4 @@
-public class CountPrimes_204 {
+public class _204_CountPrimes {
     /**
      *
      * Count the number of prime numbers less than a non-negative number, n.
